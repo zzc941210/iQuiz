@@ -46,7 +46,7 @@
 		DEE947FC1D95716400BFF395 = {
 			isa = PBXGroup;
 			children = (
-				DEE948071D95716400BFF395 /* customCell */,
+				DEE948071D95716400BFF395 /* iQuiz */,
 				DEE948061D95716400BFF395 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -59,7 +59,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DEE948071D95716400BFF395 /* customCell */ = {
+		DEE948071D95716400BFF395 /* iQuiz */ = {
 			isa = PBXGroup;
 			children = (
 				DEE948081D95716400BFF395 /* AppDelegate.swift */,
@@ -73,7 +73,7 @@
 				CC7413591FB286BE0007EAEA /* Super Heroes.jpg */,
 				DEE948141D95716400BFF395 /* Info.plist */,
 			);
-			path = customCell;
+			path = iQuiz;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -291,7 +291,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = DG9YGL99JT;
-				INFOPLIST_FILE = customCell/Info.plist;
+				INFOPLIST_FILE = iQuiz/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.uw.ischool.jeff;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -305,7 +305,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = DG9YGL99JT;
-				INFOPLIST_FILE = customCell/Info.plist;
+				INFOPLIST_FILE = iQuiz/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.uw.ischool.jeff;
 				PRODUCT_NAME = "$(TARGET_NAME)";
